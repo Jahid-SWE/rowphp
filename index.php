@@ -59,15 +59,15 @@
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputStudentPhone" class="form-label">Student Phone</label>
-                            <input type="email" class="form-control" id="exampleInputStudentPhone" aria-describedby="emailHelp">
+                            <input type="text" class="form-control" id="exampleInputStudentPhone" aria-describedby="emailHelp">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputStudentSubject" class="form-label">Student Subject</label>
-                            <input type="email" class="form-control" id="exampleInputStudentSubject" aria-describedby="emailHelp">
+                            <input type="text" class="form-control" id="exampleInputStudentSubject" aria-describedby="emailHelp">
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputStudentImage" class="form-label">Student Image</label>
-                            <input type="email" class="form-control" id="exampleInputStudentImage" aria-describedby="emailHelp">
+                            <input type="text" class="form-control" id="exampleInputStudentImage" aria-describedby="emailHelp">
                         </div>
                         <button type="submit" class="btn btn-primary">Add Student</button>
                     </form>
