@@ -69,7 +69,7 @@
                             <label for="exampleInputStudentImage" class="form-label">Student Image</label>
                             <input type="file" class="form-control" id="exampleInputStudentImage" name="image">
                         </div>
-                        <button type="submit" class="btn btn-primary">Add Student</button>
+                        <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div>
             </div>
