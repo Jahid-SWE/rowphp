@@ -67,7 +67,7 @@
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputStudentImage" class="form-label">Student Image</label>
-                            <input type="text" class="form-control" id="exampleInputStudentImage" aria-describedby="emailHelp">
+                            <input type="file" class="form-control" id="exampleInputStudentImage" aria-describedby="emailHelp" name="image">
                         </div>
                         <button type="submit" class="btn btn-primary">Add Student</button>
                     </form>
